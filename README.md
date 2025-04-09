@@ -15,10 +15,4 @@ This is a simple Simon Game built using **HTML**, **CSS**, and **JavaScript**. C
 ## Screenshot
 ![Simon Game Screenshot](image.png)
 
-## Live Demo
-Try the Simon Game live [here](https://github.com/kashish-0019/Simon-Says-Game).
-
-## Repository
-Find the source code on [GitHub](https://github.com/kashish-0019/Simon-Says-Game).
-
 
